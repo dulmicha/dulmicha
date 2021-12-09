@@ -7,3 +7,5 @@ About me:
 AGH UST :cupid:
 
 Be up-to-date by following my [site](https://dulmicha.github.io/).
+
+[Forked repository](https://github.com/dulmicha/europilot), [original one](https://github.com/marsauto/europilot).
