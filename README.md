@@ -1,11 +1,19 @@
-### Hi there 👋
+# Hi there, I'm Michał 👨‍🎓👋
 
-About me:
-- 🔭 I’m currently working on a university project.
-- 🌱 I’m currently learning so much stuff.
+I study Computer Science and Intelligent Systems at [AGH University of Science and Technology](https://www.agh.edu.pl/) :green_heart::black_heart::heart:
 
-AGH UST :cupid:
+## What I've been using in my projects
+![django](https://img.shields.io/static/v1?label=&message=Django&style=for-the-badge&logo=django&color=003A2B)
+![python](https://img.shields.io/static/v1?label=&message=python&style=for-the-badge&logo=python&logoColor=blue&color=fed142)
+![postgres](https://img.shields.io/static/v1?label=&message=postgresql&style=for-the-badge&logo=postgresql&logoColor=white&color=blue)
+![render](https://img.shields.io/static/v1?label=&message=render&style=for-the-badge&logo=render&logoColor=47e7ba&color=white)
+![java](https://img.shields.io/static/v1?label=&message=java&style=for-the-badge&color=white)
+![maven](https://img.shields.io/static/v1?label=&message=maven&style=for-the-badge&logo=apachemaven&logoColor=red&color=white)
 
-Be up-to-date by following my [site](https://dulmicha.github.io/).
+## My interests
+### Professional
+Data analysis 📈, data science 📊, machine learning 💻, artificial intelligence 🤖🧠, autonomous cars 🚙.
 
-[Forked repository](https://github.com/dulmicha/europilot), [original one](https://github.com/marsauto/europilot).
+### Others
+Automotive industry 🚗, firefighting 👨‍🚒, electrical engineering 🔌, construction industry 🏗️.
+
