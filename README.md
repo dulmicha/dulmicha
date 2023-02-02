@@ -7,7 +7,7 @@ I study Computer Science and Intelligent Systems at [AGH University of Science a
 ![python](https://img.shields.io/static/v1?label=&message=python&style=for-the-badge&logo=python&logoColor=blue&color=fed142)
 ![postgres](https://img.shields.io/static/v1?label=&message=postgresql&style=for-the-badge&logo=postgresql&logoColor=white&color=blue)
 ![render](https://img.shields.io/static/v1?label=&message=render&style=for-the-badge&logo=render&logoColor=47e7ba&color=white)
-![java](https://img.shields.io/static/v1?label=&message=java&style=for-the-badge&color=white)
+![java](https://img.shields.io/static/v1?label=&message=java&style=for-the-badge&color=red)
 ![maven](https://img.shields.io/static/v1?label=&message=maven&style=for-the-badge&logo=apachemaven&logoColor=red&color=white)
 
 ## My interests
